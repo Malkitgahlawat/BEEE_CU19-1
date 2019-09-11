@@ -1,4 +1,4 @@
-Aim: Design a LED flasher.
+Aim: Design a circuit to blink a LED.
 
 Apparatus: Connecting Wires, Resistances, Arduino, LED.
 
